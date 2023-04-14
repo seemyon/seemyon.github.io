@@ -31,5 +31,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Kudos to<a href="https://github.com/evanca/quick-portfolio">evanca</a> for a page template!</p>
 <!-- Remove above link if you don't want to attibute -->
