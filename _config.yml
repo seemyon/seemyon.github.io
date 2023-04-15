@@ -1,10 +1,9 @@
 title: Sem Leontev # your name (or website title) here
-logo: "/images/profile.jpeg?raw=true" # your photo (or logo) here
+logo: "/images/profile.jpeg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br><br>
   Experienced Data Scientist with 9+ years of experience in implementing statistical 
-  modeling and machine learning techniques to develop advanced analytics solutions. 
-  Skilled in Python, R, SQL, Tableau, Excel, and Big Data technologies.
-  
+  modeling and machine learning techniques. Skilled in Python, R, SQL, Tableau, Excel, and Big Data technologies.
   <br><br>
   <a href="https://www.linkedin.com/in/semleontev/">View My LinkedIn Profile</a> 
   
