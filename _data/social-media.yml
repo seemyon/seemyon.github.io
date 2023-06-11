@@ -1,0 +1,17 @@
+email:
+  id: 'leontyev.s@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+Linkedin:
+  id: 'semleontev/'
+  href: 'https://www.linkedin.com/in/semleontev'
+  title: 'Linkedin'
+  fa-icon: 'fa-linkedin-square'
+
+github:
+  id: 'seemyon'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
