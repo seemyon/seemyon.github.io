@@ -9,10 +9,6 @@
 
 <p><a href="https://github.com/seemyon/superbowl2023_score_prediction">View on Github</a><br>
 <a href="https://medium.com/@leontyev.s/predict-super-bowl-2023-results-using-python-3fa09f1ceeb4">Read on Medium</a></p>
-<i class="fa-solid fa-user"></i>
-<!-- uses solid style -->
-<i class="fa-brands fa-github-square"></i>
-<!-- uses brand style -->
 
 ---
 <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
