@@ -2,28 +2,15 @@
 
 ---
 
-### Category Name 1 
+-- ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predict Super Bowl 2023 results using Random Forest](https://github.com/seemyon/superbowl2023_score_prediction/blob/main/Super_Bowl_2023_randomforest.ipynb)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+The NFL Super Bowl is only a few days away and I am actually feeling excited about it this year. As a curios person I cannot wait for a few more days to see the winner so I thought it’d be interesting to try to predict the winner beforehand. I used Python and RandomForest Classifier to predict the winner, and then use Regressor to make a guess on the score. Here is my way to predict the Super Bowl outcome. <img src="images/1_D0Dj-Pc_1vQ8Wp5VZ0L1HA.webp?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+-- ### Tableau Dashboards
 
 ---
 
