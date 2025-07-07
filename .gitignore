@@ -1,0 +1,12 @@
+.env
+const.py
+**/logs
+docs/
+README.md
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
