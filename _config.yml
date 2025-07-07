@@ -10,7 +10,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/semleontev/">My LinkedIn</a> <br>
   <a href="https://github.com/seemyon">My GitHub</a> <br>
-  <a href="https://seemyon.github.io/resume">Resume</a> <br>
+  <a href="https://seemyon.github.io/resume/sem_leontev.pdf">Resume</a> <br>
+  <a href="/pdf/sem_leontev.pdf">Test PDF Resume</a> <br>
 
 
 theme: jekyll-theme-minimal
